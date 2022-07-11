@@ -248,7 +248,7 @@ function esVocal(letra){
     }else{
       return "Dato incorrecto";
     }
-  }else{
+  } else {
     return "Dato incorrecto";
   }
 }
